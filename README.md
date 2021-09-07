@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IAMGODIAM
+- 👀 I’m interested in quantum computing and deep learning. I am using the resources readily available to learn 0 to Code.
+- 🌱 I’m currently learning Python and qubits.
+- 💞️ I’m looking to collaborate on cryptocurrency algorithmic traders, and artificial intelligent assistance. 
+- 📫 How to reach me YzzyYo@ylmllc.vip
