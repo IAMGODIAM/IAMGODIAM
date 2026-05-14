@@ -1,41 +1,49 @@
-# Israel Lee
+# Israel Lee Armstead
 
-**Builder. Strategist. Founder.**
+**Chairman · Founder · Chief Visionary Officer**
 
-I design and operate autonomous systems, AI-powered tools, and multi-vehicle ventures. My work sits at the intersection of AI agents, business automation, and mission-driven technology.
+I build sovereign infrastructure — operating systems for institutions, economies, and communities that have been locked out of the ones that already exist.
 
 ---
 
-### What I'm Building
+### The Board
 
-| Project | Description |
-|---------|-------------|
-| **E5 Enclave** | Nonprofit technology org — community empowerment through AI and digital infrastructure |
-| **AgentBusinessOS** | Zero-human autonomous business operations — AI agents running real businesses |
-| **Hermie** | Sovereign AI intelligence layer — strategic planning, execution orchestration, multi-vehicle governance |
-| **THRIVE** | AI-powered mental wellness — "Your Mind Is Not Broken. It's Brilliant." |
-| **The Architect's Voice** | AI writing tool with Five Pillars methodology for strategic communication |
-| **Nerve Center** | Personal AI command center — project management and operational dashboard |
-| **FarmBlock** | Agricultural technology and community food systems |
+I operate through **IAMGODIAM** — a multi-agent agentic operating system and the governance layer for all active ventures. Every repository here is a node in that system.
 
-### Domains
+| Project | What It Is |
+|---|---|
+| **[E5 Enclave](https://e5enclave.com)** | 501(c)(3) nonprofit · Liberty City, Miami · AI-native community infrastructure, food sovereignty, civic education, and reparative economics |
+| **EDEN Protocol** | Agent metaverse · 4-layer tokenomic system (Credit · Reputation · Governance · Premium) · built for autonomous AI agents and human-agent collaboration · live on Polygon |
+| **[FarmBlock](https://e5enclave.com/programs/farmblock/)** | Food desert intervention · Black cooperative agriculture · 50-city FDI dataset · USDA-cited research infrastructure |
+| **[McCartney Academy](https://e5enclave.com/programs/mccartney-academy/)** | Liberty City pipeline · K-12 civic education anchored to the Black Distress Index · named for Ralph McCartney, elder and former M-DCPS board member |
+| **Black Dragons Initiative (BDI)** | 8-pillar structural racism analysis · sovereign dataset · policy-grade research for Black community development |
+| **AgentBusinessOS** | Zero-human autonomous business operations · AI agents running real ventures |
+| **Hermie** | Sovereign AI intelligence layer · strategic execution, governance orchestration, multi-vehicle operations |
 
-- **AI Agents & Automation** — autonomous workflows, agent orchestration, zero-human operations
-- **Nonprofit Technology** — digital equity, community infrastructure, capacity building
-- **Investment Systems** — portfolio tracking, market analysis, automated decision support
-- **Gaming Analytics** — Upland metaverse operations, racing analytics, strategy automation
+---
 
-### Tech Stack
+### What I Build
 
-`TypeScript` `Python` `Next.js` `Azure` `AI/ML` `MCP` `Terraform`
+- **Agentic operating systems** — multi-agent boards that govern, execute, and report without human relay
+- **Sovereign data infrastructure** — datasets owned by the community they document, not the platforms that host them
+- **Cooperative economics** — food systems, land stewardship, and production infrastructure owned by worker-members
+- **Mission-grade AI tooling** — not AI for productivity. AI for liberation.
+
+### Stack
+
+Python · TypeScript · Next.js · Eleventy · Azure · Polygon/EVM · MCP · IAMGODIAM OS
 
 ---
 
 ### Connect
 
-- 🌐 [e5enclave.com](https://e5enclave.com)
-- 🤖 [agentbusinessos.com](https://agentbusinessos.com)
+- [e5enclave.com](https://e5enclave.com)
+- [Black Distress Index](https://e5enclave.com/programs/bdi/)
+- [FarmBlock](https://e5enclave.com/programs/farmblock/)
+- [agentbusinessos.com](https://agentbusinessos.com)
 
 ---
 
-*"Vision first. Systems over scattered effort. Leverage over busyness."*
+*"The org that cannot fund its own operations becomes dependent on whoever can fund it. Dependency is a governance risk."*
+
+*E5 Enclave Incorporated · EIN 99-3822441 · Liberty City, Miami, Florida*
